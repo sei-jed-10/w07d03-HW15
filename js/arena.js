@@ -18,8 +18,4 @@ class Arena{
         else if(this.gladiators[0]==this.gladiators[1])
         console.log("both eliminated")
         }
-print(){
-    console.log(" this.gladiators[0] "+this.gladiators[0]+" this.gladiators[1] "+this.gladiators[1]);
-}
-
 }
