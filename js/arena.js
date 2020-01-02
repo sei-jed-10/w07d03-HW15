@@ -109,7 +109,8 @@ class Arena {
             result.push(secondGladiator); //loser
         }
 
-        //Check for winning by the second gladiator weapon.
+        //------------------------------------------------------------------------------------
+
         else if (secondGladiator.weapon == "Trident" && firstGladiator.weapon == "Spear") {
             result.push(secondGladiator); //winner
             result.push(firstGladiator); //loser
