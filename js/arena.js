@@ -170,7 +170,7 @@ class Arena {
         }
     }
 
-    // a method that returns wether or not the crowd is entertained.
+    // a method that returns whether or not the crowd is entertained.
     entertained() {
         return this.entertained;
     }
